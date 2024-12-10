@@ -1,3 +1,6 @@
+## tutorial
+https://cloud.google.com/nat/docs/gce-example?hl=ja
+
 ## 目標
 - 外部 IP アドレスが設定されていない VM インスタンスを構成する
 - Identity-Aware Proxy（IAP）トンネルを使って VM インスタンスに接続する
