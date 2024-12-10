@@ -27,11 +27,11 @@
 | プロパティ         | 値（値を入力するか、指定されたオプションを選択） |
 |--------------------|--------------------------------------------|
 | 名前               | vm-internal                                |
-| リージョン         | REGION                                     |
-| ゾーン             | ZONE                                       |
+| リージョン         | asia-northeast1                             |
+| ゾーン             | asia-northeast1a                           |
 | シリーズ           | E2                                         |
 | マシンタイプ       | e2-medium（2 vCPU、1 コア、4 GB メモリ） |
-| ブートディスク     | Debian GNU/Linux 12（bookworm）           |
+| ブートディスク     | debian-cloud/debian-9           |
 
 ## Cloud Storage構成
 
